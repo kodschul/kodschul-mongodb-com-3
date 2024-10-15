@@ -1,8 +1,3 @@
-# MongoDB Admins - Code Examples (Tag 2/3)
-
-This document contains all the code examples extracted from the training slides (Tag 2/3). The examples are fully functional and compatible with the latest MongoDB version.
-
-
 ## Creating a Simple Index
 
 ```bash
